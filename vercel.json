@@ -1,6 +1,5 @@
 {
-  "buildCommand": "cd sheep-farm && pnpm run build",
-  "outputDirectory": "sheep-farm/dist/public",
-  "installCommand": "pnpm install --no-frozen-lockfile",
-  "framework": null
+  "buildCommand": "pnpm run build",
+  "outputDirectory": "dist",
+  "installCommand": "pnpm install --no-frozen-lockfile"
 }
